@@ -1,5 +1,3 @@
-# coursera-cours
-First page   "Our Menu"
-https://khalidoxb.github.io/coursera/mod2-Solution/
-I used to create this page : HTML & CSS (without any Framework ).
-If there are any problem , just write it also you can explaine your openion ; 
+  # Coursera: HTML, CSS and Javascript for Web Developers
+  
+  # fullstack-course/assignments{Mod2,Mod3,Mod4,Mod5}
